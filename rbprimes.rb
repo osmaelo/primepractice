@@ -23,5 +23,5 @@ def primes(num_primes)
 end
 
 if __FILE__ == $PROGRAM_NAME
-  puts primes(5)
+  puts primes(15)
 end

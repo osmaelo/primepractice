@@ -1,10 +1,6 @@
 public class jvprimes {
   public static void main(String[] args) {
-    // Insert functions in here to run them.
-    // System.out.println(isPrime(2));
-    int[] primeList = new int[10];
-    System.out.println(primeList.length);
-    System.out.println(primeList);
+    printArr(primes(40));
   }
   public static boolean isPrime(int num) {
     for (int i = 2; i < num; i++) {
@@ -15,12 +11,27 @@ public class jvprimes {
     return true;
   }
 
-  // public static int[] primes(int numPrimes) {
-  //   int[] primeList = new int[numPrimes];
-  //   while (primeList.length < numPrimes) {
-  //
-  //   }
-  //   return primeList;
-  //
-  // }
+  public static int[] primes(int numPrimes) {
+    int[] primeList = new int[numPrimes];
+    int j = 2;
+    int pLidx = 0;
+
+    while (pLidx <= numPrimes - 1) {
+      if (isPrime(j)) {
+        primeList[pLidx] = j;
+        j++;
+        pLidx++;
+      } else {
+        j++;
+      }
+    }
+    return primeList;
+  }
+
+  public static void printArr(int[] arr){
+    for (int k = 0; k < arr.length; k++) {
+      System.out.print(arr[k] + " ");
+    }
+    System.out.println("");
+  }
 }
