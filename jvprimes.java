@@ -19,11 +19,9 @@ public class jvprimes {
     while (pLidx <= numPrimes - 1) {
       if (isPrime(j)) {
         primeList[pLidx] = j;
-        j++;
         pLidx++;
-      } else {
-        j++;
       }
+      j++;
     }
     return primeList;
   }
