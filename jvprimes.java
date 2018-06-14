@@ -16,7 +16,7 @@ public class jvprimes {
     int j = 2;
     int pLidx = 0;
 
-    while (pLidx <= numPrimes - 1) {
+    while (pLidx < numPrimes) {
       if (isPrime(j)) {
         primeList[pLidx] = j;
         pLidx++;
