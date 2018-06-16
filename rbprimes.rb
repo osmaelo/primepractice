@@ -1,7 +1,3 @@
-# test1.rb
-# require 'rb-readline'
-# require 'byebug'
-
 def prime?(num)
   (2...num).each do |idx|
     if num % idx == 0
