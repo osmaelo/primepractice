@@ -1,3 +1,4 @@
+# ruby
 def prime?(num)
   (2...num).each do |idx|
     if num % idx == 0
