@@ -1,3 +1,5 @@
+// Java
+
 public class jvprimes {
   public static void main(String[] args) {
     printArr(primes(40));
