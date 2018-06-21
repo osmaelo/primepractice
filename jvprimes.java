@@ -1,4 +1,4 @@
-// Java
+// Java, algorithms practice
 
 public class jvprimes {
   public static void main(String[] args) {
