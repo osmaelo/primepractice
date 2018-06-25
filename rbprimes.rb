@@ -1,4 +1,6 @@
 # ruby
+# Will practice algorithms here too
+
 def prime?(num)
   (2...num).each do |idx|
     if num % idx == 0
