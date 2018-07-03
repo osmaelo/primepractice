@@ -1,4 +1,5 @@
 // Java, algorithms practice
+// Compile then run
 
 public class jvprimes {
   public static void main(String[] args) {
