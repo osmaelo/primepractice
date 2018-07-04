@@ -1,5 +1,6 @@
 // Java, algorithms practice
 // Compile then run
+// I wonder how this code would look like in Assembly Language?
 
 public class jvprimes {
   public static void main(String[] args) {
