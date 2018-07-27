@@ -2,7 +2,6 @@
 // Compile then run
 // Notes that should go here in preparation for algorithm study
 // The final method/function of java should go in the first main method/function. That is how everything will be run
-// About 100% done with Book
 
 public class jvprimes {
   public static void main(String[] args) {
