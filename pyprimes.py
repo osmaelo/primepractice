@@ -1,4 +1,5 @@
 # python, practice here
+# changed from github website directly
 
 def is_prime(num):
     for i in range(2, num):
