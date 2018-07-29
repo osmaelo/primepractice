@@ -1,5 +1,5 @@
 # ruby
-# Will practice algorithms here too
+# Changed via ethernet
 
 def prime?(num)
   (2...num).each do |idx|
