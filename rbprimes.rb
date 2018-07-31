@@ -1,5 +1,5 @@
 # ruby
-# Changed via ethernet
+# Need to do Github's Git tutorial and later on do Vim tutorial
 
 def prime?(num)
   (2...num).each do |idx|
