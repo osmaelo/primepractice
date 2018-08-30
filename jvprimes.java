@@ -3,7 +3,7 @@
 // Notes that should go here in preparation for algorithm study
 // The final method/function of java should go in the first main method/function. That is how everything will be run
 // Working on making cloned repos work
-// 0%. Gonna get a kindle to help with certain progress. 48L, 2-3 rules in.
+// 1%. Started previously read. 48L, 2-3 rules in.
 
 public class jvprimes {
   public static void main(String[] args) {
