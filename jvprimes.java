@@ -5,7 +5,7 @@
 // Working on making cloned repos work
 // 1.8%. 48L, 
 // 2-3/48 rules in
-// Leetcode exploring 0.001%
+// Leetcode exploring 0.00001%
 
 public class jvprimes {
   public static void main(String[] args) {
