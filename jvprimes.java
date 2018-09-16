@@ -3,7 +3,7 @@
 // Notes that should go here in preparation for algorithm study
 // The final method/function of java should go in the first main method/function. That is how everything will be run
 // Working on making cloned repos work
-// 1.8%. 48L, 
+// 1.7%. 48L, 
 // 2-3/48 rules in
 // Leetcode exploring 0.00001%
 
