@@ -6,6 +6,7 @@
 // 1.5%. CTCI 
 // 2-3/48 rules in
 // Leetcode exploring 0.00001%
+// Deutches Haus 0.001%
 
 public class jvprimes {
   public static void main(String[] args) {
