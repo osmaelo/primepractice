@@ -7,6 +7,7 @@
 // 2-3/48 rules in
 // Leetcode exploring 0.00001%
 // Deutches Haus 0.001%
+// Look into city classes!
 
 public class jvprimes {
   public static void main(String[] args) {
